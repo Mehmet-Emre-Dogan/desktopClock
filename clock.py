@@ -31,7 +31,7 @@ class myWindow(QtWidgets.QMainWindow):
         self.worker.mySignal.connect(self.whenSignalReceived)
         self.worker.start()
 
-    def whenSignalReceived(self, deger):
+    def whenSignalReceived(self, val):
         clock = datetime.now()
         self.ui.progressBar.setValue(clock.second)
         if clock.hour < 10:
