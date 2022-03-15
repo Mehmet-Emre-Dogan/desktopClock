@@ -1,6 +1,6 @@
 # desktopClock
 <div align="center">
-<img src="main/ss.png"> </img>
+<img src="https://github.com/Mehmet-Emre-Dogan/desktopClock/blob/main/ss.png"> </img>
 </p> <br> </p>
 
 </div>
