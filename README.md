@@ -1,8 +1,9 @@
 # desktopClock
 <div align="center">
 <img src="https://github.com/Mehmet-Emre-Dogan/desktopClock/blob/main/ss.png"> </img>
-
 </div>
+
+
 Big clock which always appears on top.
 # Usage
 If you want the light theme, keep useLightTheme file. If you prefer dark theme, delete it. The clock-executable contains the executable file and other necessary files for exe file to work.
