@@ -1,7 +1,6 @@
 # desktopClock
 <div align="center">
 <img src="https://github.com/Mehmet-Emre-Dogan/desktopClock/blob/main/ss.png"> </img>
-</p> <br> </p>
 
 </div>
 Big clock which always appears on top.
